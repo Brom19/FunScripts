@@ -1,4 +1,4 @@
-﻿Start-Sleep -s 1
+Start-Sleep -s 1
 
 $folder = "$env:USERPROFILE\Downloads\Torrent_OK"
 $seriefolder = "$env:USERPROFILE\Videos\Series"
